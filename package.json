@@ -1,0 +1,12 @@
+{
+  "name": "analyst-ai",
+  "version": "1.0.0",
+  "description": "Analyst AI/ML api server and website",
+  "main": "",
+  "author": "ntohq-developers <github@ntohq.dev>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+   "packages/*"
+ ]
+}
